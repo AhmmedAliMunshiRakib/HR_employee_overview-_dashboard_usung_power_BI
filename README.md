@@ -89,6 +89,8 @@ The dashboard provides a high-level view of HR analytics including:
 
 - Ahmmed Ali Munshi Rakib
 - 📊 Data Analyst
--  Excel | Power BI 
+-  Excel | Power BI
+-  Phone: 01890499775
+- Email: ahmmed.ali.munshi@gmail.com
 -  GitHub: https://github.com/AhmmedAliMunshiRakib
 
